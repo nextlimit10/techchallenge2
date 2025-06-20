@@ -53,3 +53,6 @@ pipeline {
                     '''
                 }
             }
+        }
+    } // <-- this closes "stages"
+}   // <-- this closes "pipeline"
